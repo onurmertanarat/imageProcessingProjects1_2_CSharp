@@ -117,13 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label1.Text" xml:space="preserve">
-    <value> * Geliştirici: Onur Mert ANARAT | 2013010812004
- * e-mail: anrtonurmert@gmail.com
- * GitHub: github.com/anrtonurmert
- * Üniversite: Karabük Üniversitesi
- * Fakülte: Teknoloji Fakültesi
- * Bölüm: Mekatronik Mühendisliği
- * Dip not: "Görüntü İşleme" dersi için dönem sonu proje ödevi olarak yapılmıştır. </value>
-  </data>
 </root>

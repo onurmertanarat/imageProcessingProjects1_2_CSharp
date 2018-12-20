@@ -162,12 +162,12 @@ namespace imgProcessingProject2_ASV
 
         private void button8_Click_1(object sender, EventArgs e)
         {
-            mode = 1;
+            //mode = 1;
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-
+            //null
         }
 
         private void finalFrame_newFrame(object sender, NewFrameEventArgs eventArgs)
@@ -187,7 +187,7 @@ namespace imgProcessingProject2_ASV
                     break;
                 case 2:
                     {
-                        //Öklit Renk Filtresi
+                        //*Öklit Renk Filtresi
                         EuclideanColorFiltering eucFilter = new EuclideanColorFiltering();
                         eucFilter.CenterColor = new RGB(Color.FromArgb(red, green, blue));
                         eucFilter.Radius = 125;
@@ -218,7 +218,7 @@ namespace imgProcessingProject2_ASV
                     break;
                 case 3:
                     {
-                        //Öklit Renk Filtresi
+                        //**Öklit Renk Filtresi
                         EuclideanColorFiltering eucFilter = new EuclideanColorFiltering();
                         eucFilter.CenterColor = new RGB(Color.FromArgb(red, green, blue));
                         eucFilter.Radius = 125;
@@ -396,7 +396,7 @@ namespace imgProcessingProject2_ASV
                     break;
                 case 4:
                     {
-                        //Öklit Renk Filtresi
+                        //***Öklit Renk Filtresi
                         EuclideanColorFiltering eucFilter = new EuclideanColorFiltering();
                         eucFilter.CenterColor = new RGB(Color.FromArgb(red, green, blue));
                         eucFilter.Radius = 125;

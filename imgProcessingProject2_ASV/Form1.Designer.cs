@@ -172,7 +172,7 @@
             // 
             // button10
             // 
-            this.button10.BackColor = System.Drawing.Color.MediumSlateBlue;
+            this.button10.BackColor = System.Drawing.Color.DarkOrange;
             this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button10.Font = new System.Drawing.Font("Bookman Old Style", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button10.Location = new System.Drawing.Point(192, 154);
@@ -501,9 +501,9 @@
             // button9
             // 
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button9.Location = new System.Drawing.Point(6, 19);
+            this.button9.Location = new System.Drawing.Point(6, 18);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(75, 23);
+            this.button9.Size = new System.Drawing.Size(73, 40);
             this.button9.TabIndex = 16;
             this.button9.Text = "Hakkında";
             this.button9.UseVisualStyleBackColor = true;
